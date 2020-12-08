@@ -1,1 +1,94 @@
 # My-Cv
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>☆My Personal Website☆</title>
+</head>
+<body>
+    <table cellspacing="20" >
+        <tr>
+            <td><img src="pp.jpg" alt="Image Not available " srcset=""  width="150" height="150" >
+                </td>
+                <td><h1>Ajay Irkal </h1><p> <em> Learning HTML With <a href="https://en.wikipedia.org/wiki/Angela_Yu_Chien" target="blank"><strong>Angela Yu.</strong> </em></a></p>
+                    <a href="contact.html" target="blank"><h3>Contact Me</h3></a><br>
+                    <p>So I am <strong>Ajay Irkal</strong> I have an Youtube channel  You can visit by clicking <a href="https://www.youtube.com/channel/UCmsAJwNM3gjgmXzKvlKSlmg?view_as=subscriber" target="blank"><strong>‟here”</strong></a> ‟here” From hubli who is recently learning BCA in <strong> KLE College BCA HUBLI. </strong> <p>and I do Gaming, 
+                     Gaming is my passion and mostly i play online games and meet new people and its fun. and now about my <strong>Family </strong> <p> My Mom's Name is <strong>
+                     Vijaylaxmi Irkal</strong> and my Father's Name is <strong>Jawharlal Irkal</strong> and i even have a brother <strong>Pavan Irkal</strong> and <p> 
+                    beautifull sister <strong>Meghana Irkal.</strong> </p>
+                    </td>
+
+                
+        </tr>
+    </table>
+    <hr size="1"  noshade="5">
+    
+    
+    
+    
+    <h3>My Education</h3>
+    <table align="centre" >
+        <tr></tr>
+            <td> <strong> Primary Education </strong> </td>
+            <td>-</td>
+            <td>Rotary English Medium School</td>
+        </tr>
+        <tr>
+            <td> <strong> Higher Education</strong></td>
+            <td>-</td>
+            <td>KLE BCA HUBLI</td>
+        </tr>
+    </table>
+    <a href="https://www.klebcahubli.in/" target="blank">KLE BCA Website</a>
+    <hr size="1" noshade="5">
+    
+    <h2>Website Works and Projects :</h2>
+    <ul type = "circle" >
+        <li>Nothing Here</li>
+        <li>Nothing Here</li>
+        <li>Nothing Here</li>
+    </ul>
+    <hr size="1" noshade="5">
+    <h2>Skills</h2>
+    <table align="centre" cellpadding = "10" border="1" >
+        <tbody>
+            <tr>
+                <td><strong>HTML</strong></td>
+                <td>⭐⭐⭐⭐☆</td>
+                <td><strong>CSS</strong></td>
+                <td>⭐☆☆☆☆</td>
+            </tr>
+                <tr>
+                    <td><strong>JAVA</strong></td>
+                    <td>⭐☆☆☆☆</td>
+                    <td><strong>LOGIC</strong></td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+        </tbody>
+    </table>
+    <hr size="1" noshade="5" >
+    
+    <h2>My Hobbies :</h2>
+    <ol>
+        <li>love to travel🛫</li>
+        <li>Gamer 🎮</li>
+        <li>Like to roast people🔥</li>
+        <li>Programming⭐</li>
+    </ol>
+    <hr size="1" noshade="5" >
+    <h2>Want to know my Crush</h2>
+    <dl>
+        <dt>My Crush </dt>
+        <a href="https://www.nvidia.com/en-in/geforce/graphics-cards/30-series/rtx-3080/" target="blank"><img src="YeIKvp4Z_400x400.jpg" alt="" width="150" height="150" ></dd></a>
+        <dt>Click On Image</dt>
+    </dl>
+    <hr size="1" noshade="5" >
+
+
+
+
+
+</body> 
+</html>
